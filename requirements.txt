@@ -1,0 +1,5 @@
+clipboard
+psutil
+keyboard
+pywin32
+win32ui
